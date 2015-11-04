@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DailyQuotes</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_prvi">Prvi</string>
+    
+    <string name="test"><![CDATA[Bill Gates<br> 28 October 1955<br> Bill Gates is an American business magnate, philanthropist, investor, computer programmer, and inventor.Gates is the former chief executive and chairman of Microsoft, the world’s largest personal-computer software company, which he co-founded with Paul Allen.]]></string>
+    <string name="testt"><![CDATA[Steven Paul "Steve" Jobs <br>February 24, 1955 – October 5, 2011 <br> Steven Paul "Steve" Jobs was an American entrepreneur, marketer, and inventor, who was the co-founder, chairman, and CEO of Apple Inc. Through Apple, he is widely recognized as a charismatic and design-driven pioneer of the personal computer revolution and for his influential career in the computer and consumer electronics fields, transforming "one industry after another, from computers and smartphones to music and movies.]]>  </string>
+    <string name="testtt"><![CDATA[Mark Elliot Zuckerberg<br>May 14, 1984 <br>Mark Elliot Zuckerberg is an American computer programmer and Internet entrepreneur. He is best known as one of five co-founders of the social networking website Facebook. As of April 2013, Zuckerberg is the chairman and chief executive of Facebook, Inc. and his personal wealth, as of July 2014, is estimated to be $33.1 billion.]]></string>
+      <string name="Gates"> If you can not make it good, at least make it look good. - Bill Gates</string>
+      <string name="Cukberger"> We all need people who will give us feedback. That is how we improve. -Mark Elliot Zuckerberg</string>
+      <string name="Jobs"> Things do not have to change the world to be important. -Steven Paul "Steve" Jobs</string>
+        <string name="Napoleon"> Never interrupt your enemy when he is making a mistake. -Napoleone di Buonaparte</string>
+          <string name="Churchill"> Success consists of going from failure to failure without loss of enthusiasm. -Churchill</string>
+            <string name="Kennedy"> Forgive your enemies, but never forget their names. -J.F. Kennedy</string>
+            <string name="Napoleon1"><![CDATA[Napoleone di Buonaparte <br>15 August 1769 – 5 May 1821 <br> As Napoleon I, he was Emperor of the French from 1804 to 1814 and again in 1815. He implemented a wide array of liberal reforms across Europe, including the abolition of feudalism and the spread of religious toleration.His legal code in France, the Napoleonic Code, influenced numerous civil law jurisdictions worldwide. Napoleon is remembered for dominating European affairs (1799-1815) while leading France against a series of coalitions in the Napoleonic Wars.]]></string>
+            <string name="Churchill1"><![CDATA[ Sir Winston Leonard Spencer-Churchill<br>30 November 1874 – 24 January 1965<br>Churchill was a British politician and Nobel laureate who was the Prime Minister of the United Kingdom from 1940 to 1945 and again from 1951 to 1955. Widely regarded as one of the greatest wartime leaders of the 20th century, Churchill was also an officer in the British Army, a historian, a writer (as Winston S. Churchill), and an artist. Churchill is the only British Prime Minister to have won the Nobel Prize in Literature since its inception in 1901, and was the first person to be made an honorary citizen of the United States.]]></string>
+                 <string name="Kennedy1"><![CDATA[ John Fitzgerald Kennedy<br>May 29, 1917 – November 22, 1963<br> Commonly known as Jack Kennedy, or by his initials JFK, was an American politician who served as the 35th President of the United States from January 1961 until his assassination in November 1963. Notable events during his presidency included the Bay of Pigs Invasion, the Cuban Missile Crisis, the Space Race—by initiating Project Apollo (which later culminated in the moon landings), the building of the Berlin Wall, the African-American Civil Rights Movement, and increased US involvement in the Vietnam War.]]></string>
+   		<string name="Lennon">  Life is what happens while you are busy making other plans. -John Lennon</string>
+          <string name="Bethoven"> music is a higher revelation than all wisdom and philosophy. - Beethoven</string>
+            <string name="Dylan"> There is nothing so stable as change. -Bob Dylan</string>
+            <string name="Lennon1"><![CDATA[John Ono Lennon, MBE, born John Winston Lennon<br> 9 October 1940 – 8 December 1980<br>John was an English musician, singer and songwriter who rose to worldwide fame as a founder member of the rock band the Beatles, the most commercially successful band in the history of popular music. With Paul McCartney, he formed a songwriting partnership that is one of the most celebrated of the 20th century.]]></string>
+            <string name="Bethoven1"><![CDATA[ Ludwig van Beethoven<br> 17 December 1770 – 26 March 1827<br>Beethoven was a German composer and pianist. A crucial figure in the transition between the Classical and Romantic eras in Western art music, he remains one of the most famous and influential of all composers. His best-known compositions include 9 symphonies, 5 concertos for piano, 32 piano sonatas, and 16 string quartets. He also composed other chamber music, choral works (including the celebrated Missa solemnis), and songs.]]></string>
+                 <string name="Dylan1"><![CDATA[ Bob Dylan<br>May 24, 1941<br> Dylan is an American singer-songwriter, artist, and writer. He has been an influential figure in popular music and culture for more than five decades. Much of his most celebrated work dates from the 1960s, when he was both a chronicler and a reluctant figurehead of social unrest. A number of Dylans early songs, such as "Blowing in the Wind" and "The Times They Are a-Changing", became anthems for the American civil rights and anti-war movements. Leaving behind his initial base in the culture of the folk music revival, Dylans six-minute single "Like a Rolling Stone" radically altered the parameters of popular music in 1965. His mid-1960s recordings, backed by rock musicians, reached the top end of the United States music charts while also attracting denunciation and criticism from others in the folk movement.]]></string>
+    <string name="book1"> Good friends, good books, and a sleepy conscience: this is the ideal life. ― Mark Twain</string>
+     <string name="book2">So many books, so little time. ― Frank Zappa</string>
+      <string name="book3">Never trust anyone who has not brought a book with them. ― Lemony Snicket, Horseradish</string>
+       <string name="book4"> If one cannot enjoy reading a book over and over again, there is no use in reading it at all. ― Oscar Wilde</string>
+        <string name="book5">You can never get a cup of tea large enough or a book long enough to suit me. ― C.S. Lewis</string>
+   <string name="love">A friend is someone who knows all about you and still loves you. ― Elbert Hubbard</string>
+   <string name="love1">It is better to be hated for what you are than to be loved for what you are not. ― André Gide, Autumn Leaves</string>
+   <string name="love2">We accept the love we think we deserve. ― Stephen Chbosky, The Perks of Being a Wallflower</string>
+   <string name="love3">We love the things we love for what they are. ― Robert Frost</string>
+   <string name="love4">One is loved because one is loved. No reason is needed for loving. ― Paulo Coelho, The Alchemist</string>
+
+</resources>
